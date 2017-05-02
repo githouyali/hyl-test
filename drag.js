@@ -1,3 +1,4 @@
-function(){
-	var oBox=document.getElementById('box')
+function drag(id){
+	var obj=document.getElementById(id);
+	obj.onclick=function(){}
 }
