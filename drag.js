@@ -4,4 +4,7 @@ function drag(id){
 		var oEvent=ev||event;
 		var disX=0;
 	}
+	obj.onmousedown=function(){
+		var disX=0;
+	}
 }
