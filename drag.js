@@ -8,4 +8,5 @@ function drag(id){
 	obj.onmousedown=function(){
 		var disX=0;
 	}
+	obj.onmouseup=function(){};
 }
